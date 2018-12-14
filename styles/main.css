@@ -1,3 +1,8 @@
+body {
+  background-color:#f2f2f2;
+  padding-bottom: 5rem;
+}
+
 header {
   background:
   linear-gradient(
@@ -20,11 +25,6 @@ h1 {
   font-weight: lighter;
   font-size: 1.6rem;
   color: rgb(242,242,242,0.8);
-}
-
-body {
-  background-color:#f2f2f2;
-  padding-bottom: 5rem;
 }
 
 main {
